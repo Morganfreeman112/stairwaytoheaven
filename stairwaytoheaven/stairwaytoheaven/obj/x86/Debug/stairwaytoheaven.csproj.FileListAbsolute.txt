@@ -1,0 +1,4 @@
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\stairwaytoheaven\stairwaytoheaven\bin\Debug\stairwaytoheaven.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\stairwaytoheaven\stairwaytoheaven\bin\Debug\stairwaytoheaven.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\stairwaytoheaven\stairwaytoheaven\obj\x86\Debug\stairwaytoheaven.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\stairwaytoheaven\stairwaytoheaven\obj\x86\Debug\stairwaytoheaven.pdb
