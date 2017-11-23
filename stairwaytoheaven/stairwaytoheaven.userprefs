@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="stairwaytoheaven\stairwaytoheaven.csproj">
+﻿<Properties StartupItem="stairwaytoheaven\stairwaytoheaven.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="stairwaytoheaven\Program.cs">
     <Files>
-      <File FileName="stairwaytoheaven\Program.cs" Line="6" Column="3" />
+      <File FileName="stairwaytoheaven\Program.cs" Line="22" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
