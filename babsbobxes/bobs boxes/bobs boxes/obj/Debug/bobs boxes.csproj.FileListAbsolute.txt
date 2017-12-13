@@ -1,0 +1,7 @@
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\bin\Debug\bobs boxes.exe.config
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\bin\Debug\bobs boxes.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\bin\Debug\bobs boxes.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\obj\Debug\bobs boxes.csprojResolveAssemblyReference.cache
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\obj\Debug\bobs boxes.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\obj\Debug\bobs boxes.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\bobs boxes\bobs boxes\bin\Debug\input.txt

@@ -1,0 +1,4 @@
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\evenoddsums12\evenoddsums12\bin\Debug\evenoddsums12.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\evenoddsums12\evenoddsums12\bin\Debug\evenoddsums12.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\evenoddsums12\evenoddsums12\obj\x86\Debug\evenoddsums12.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\evenoddsums12\evenoddsums12\obj\x86\Debug\evenoddsums12.pdb

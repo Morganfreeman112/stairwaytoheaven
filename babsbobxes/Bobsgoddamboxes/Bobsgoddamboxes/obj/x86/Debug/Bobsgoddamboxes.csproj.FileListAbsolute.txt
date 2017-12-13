@@ -1,0 +1,5 @@
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\Bobsgoddamboxes\Bobsgoddamboxes\bin\Debug\Bobsgoddamboxes.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\Bobsgoddamboxes\Bobsgoddamboxes\bin\Debug\Bobsgoddamboxes.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\Bobsgoddamboxes\Bobsgoddamboxes\obj\x86\Debug\Bobsgoddamboxes.exe
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\Bobsgoddamboxes\Bobsgoddamboxes\obj\x86\Debug\Bobsgoddamboxes.pdb
+C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\babsbobxes\Bobsgoddamboxes\Bobsgoddamboxes\bin\Debug\box_data.txt
