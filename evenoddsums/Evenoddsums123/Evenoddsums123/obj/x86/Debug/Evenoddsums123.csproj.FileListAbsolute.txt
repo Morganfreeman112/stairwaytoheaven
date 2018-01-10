@@ -1,4 +1,0 @@
-C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\Evenoddsums123\Evenoddsums123\bin\Debug\Evenoddsums123.exe
-C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\Evenoddsums123\Evenoddsums123\bin\Debug\Evenoddsums123.pdb
-C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\Evenoddsums123\Evenoddsums123\obj\x86\Debug\Evenoddsums123.exe
-C:\Users\Dipiloga110\Documents\GitHub\stairwaytoheaven\evenoddsums\Evenoddsums123\Evenoddsums123\obj\x86\Debug\Evenoddsums123.pdb

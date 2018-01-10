@@ -1,0 +1,5 @@
+C:\Users\Dipiloga110\Documents\GitHub\evenoroddsums\Even_Odd_Sums\Even_Odd_Sums\bin\Debug\Even_Odd_Sums.exe
+C:\Users\Dipiloga110\Documents\GitHub\evenoroddsums\Even_Odd_Sums\Even_Odd_Sums\bin\Debug\Even_Odd_Sums.pdb
+C:\Users\Dipiloga110\Documents\GitHub\evenoroddsums\Even_Odd_Sums\Even_Odd_Sums\obj\x86\Debug\Even_Odd_Sums.exe
+C:\Users\Dipiloga110\Documents\GitHub\evenoroddsums\Even_Odd_Sums\Even_Odd_Sums\obj\x86\Debug\Even_Odd_Sums.pdb
+C:\Users\Dipiloga110\Documents\GitHub\evenoroddsums\Even_Odd_Sums\Even_Odd_Sums\bin\Debug\input.txt
