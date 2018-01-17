@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Bobsgoddamboxes\Program.cs">
     <Files>
-      <File FileName="Bobsgoddamboxes\Program.cs" Line="14" Column="44" />
+      <File FileName="Bobsgoddamboxes\Program.cs" Line="11" Column="55" />
+      <File FileName="Bobsgoddamboxes\box_data.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
